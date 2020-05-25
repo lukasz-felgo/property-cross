@@ -10,7 +10,14 @@
                 "center_long" : "-0.489769",
                 "long_title" : "London, England",
                 "place_name" : "london_england",
-                "title" : "London"
+                "title" : "London",
+                "img_url" : "https://www.oferteo.pl/images/portfolio/3406454/256px_s/41818_fot_bartek_warzecha_-_dsf6742.jpg",
+                "img_width": 200,
+                "img_height": 200,
+                "price_formatted": "3 000",
+                "bedroom_number": 3,
+                "bathroom_number": 2,
+                "summary": "Really cosy place in the suburbs"
             },
             {
                 "id": 2,
@@ -18,7 +25,14 @@
                 "center_long" : "-1.052779",
                 "long_title" : "Vienna, Austria",
                 "place_name" : "vienna_austria",
-                "title" : "Vienna"
+                "title" : "Vienna",
+                "img_url" : "https://www.oferteo.pl/images/portfolio/3406454/256px_s/41818_fot_bartek_warzecha_-_dsf6742.jpg",
+                "img_width": 200,
+                "img_height": 200,
+                "price_formatted": "3 000",
+                "bedroom_number": 3,
+                "bathroom_number": 2,
+                "summary": "Really cosy place in the suburbs"
             },
             {
                 "id": 3,
@@ -26,7 +40,14 @@
                 "center_long" : "0.088967",
                 "long_title" : "Hamburg, Germany",
                 "place_name" : "hamburg_germany",
-                "title" : "Hamburg"
+                "title" : "Hamburg",
+                "img_url" : "https://www.oferteo.pl/images/portfolio/3406454/256px_s/41818_fot_bartek_warzecha_-_dsf6742.jpg",
+                "img_width": 200,
+                "img_height": 200,
+                "price_formatted": "3 000",
+                "bedroom_number": 3,
+                "bathroom_number": 2,
+                "summary": "Really cosy place in the suburbs"
             },
             {
                 "id": 4,
@@ -34,7 +55,14 @@
                 "center_long" : "-1.052779",
                 "long_title" : "New York, USA",
                 "place_name" : "newyorl_usa",
-                "title" : "New York"
+                "title" : "New York",
+                "img_url" : "https://www.oferteo.pl/images/portfolio/3406454/256px_s/41818_fot_bartek_warzecha_-_dsf6742.jpg",
+                "img_width": 200,
+                "img_height": 200,
+                "price_formatted": "3 000",
+                "bedroom_number": 3,
+                "bathroom_number": 2,
+                "summary": "Really cosy place in the suburbs"
             },
             {
                 "id": 5,
@@ -42,7 +70,14 @@
                 "center_long" : "-1.052779",
                 "long_title" : "Warsaw, Poland",
                 "place_name" : "warsaw_poland",
-                "title" : "Warsaw"
+                "title" : "Warsaw",
+                "img_url" : "https://www.oferteo.pl/images/portfolio/3406454/256px_s/41818_fot_bartek_warzecha_-_dsf6742.jpg",
+                "img_width": 200,
+                "img_height": 200,
+                "price_formatted": "3 000",
+                "bedroom_number": 3,
+                "bathroom_number": 2,
+                "summary": "Really cosy place in the suburbs"
             }
             ]
     }
