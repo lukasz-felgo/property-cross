@@ -1,46 +1,48 @@
 {
     "response": {
         "application_response_code": 100,
+        "page": 1,
+        "total_results": 5,
         "locations" : [
             {
                 "id": 1,
                 "center_lat" : "51.209119",
                 "center_long" : "-0.489769",
-                "long_title" : "Albury, Guildford",
-                "place_name" : "albury_guildford",
+                "long_title" : "London, England",
+                "place_name" : "london_england",
                 "title" : "London"
             },
             {
                 "id": 2,
                 "center_lat" : "51.739892",
                 "center_long" : "-1.052779",
-                "long_title" : "Albury, Thame",
-                "place_name" : "albury_thame",
+                "long_title" : "Vienna, Austria",
+                "place_name" : "vienna_austria",
                 "title" : "Vienna"
             },
             {
                 "id": 3,
                 "center_lat" : "51.904418",
                 "center_long" : "0.088967",
-                "long_title" : "Albury, Ware",
-                "place_name" : "albury_ware",
+                "long_title" : "Hamburg, Germany",
+                "place_name" : "hamburg_germany",
                 "title" : "Hamburg"
             },
             {
                 "id": 4,
                 "center_lat" : "51.739892",
                 "center_long" : "-1.052779",
-                "long_title" : "Albury, Thame",
-                "place_name" : "albury_thame",
-                "title" : "Some other place"
+                "long_title" : "New York, USA",
+                "place_name" : "newyorl_usa",
+                "title" : "New York"
             },
             {
                 "id": 5,
                 "center_lat" : "51.739892",
                 "center_long" : "-1.052779",
-                "long_title" : "Albury, Thame",
-                "place_name" : "albury_thame",
-                "title" : "Also a place"
+                "long_title" : "Warsaw, Poland",
+                "place_name" : "warsaw_poland",
+                "title" : "Warsaw"
             }
             ]
     }
