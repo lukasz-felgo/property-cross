@@ -1,0 +1,47 @@
+{
+    "locations" : [
+    {
+        "id": 1,
+        "center_lat" : "51.209119",
+        "center_long" : "-0.489769",
+        "long_title" : "Albury, Guildford",
+        "place_name" : "albury_guildford",
+        "title" : "London"
+    },
+    {
+        "id": 2,
+        "center_lat" : "51.739892",
+        "center_long" : "-1.052779",
+        "long_title" : "Albury, Thame",
+        "place_name" : "albury_thame",
+        "title" : "Vienna"
+    },
+    {
+        "id": 3,
+        "center_lat" : "51.904418",
+        "center_long" : "0.088967",
+        "long_title" : "Albury, Ware",
+        "place_name" : "albury_ware",
+        "title" : "Hamburg"
+    },
+    {
+        "id": 4,
+        "center_lat" : "51.739892",
+        "center_long" : "-1.052779",
+        "long_title" : "Albury, Thame",
+        "place_name" : "albury_thame",
+        "title" : "Some other place"
+    },
+    {
+        "id": 5,
+        "center_lat" : "51.739892",
+        "center_long" : "-1.052779",
+        "long_title" : "Albury, Thame",
+        "place_name" : "albury_thame",
+        "title" : "Also a place"
+    }
+    ],
+    "profile": {
+        "name": "felgo"
+      }
+}
