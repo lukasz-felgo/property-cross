@@ -1,6 +1,6 @@
 {
     "response": {
-        "application_response_code": 200,
+        "application_response_code": 100,
         "locations" : [
             {
                 "id": 1,
